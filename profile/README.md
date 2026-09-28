@@ -1,4 +1,5 @@
-<img width="1512" height="375" alt="Banner" src="https://github.com/user-attachments/assets/fd08feef-433f-426e-8819-5e6f19bc33bf" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/03e746fa-0d83-4c5d-a51c-a887bac87772" />
+
 
 # Welcome to NOWNodes
 
