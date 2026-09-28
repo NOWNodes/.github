@@ -62,7 +62,7 @@ curl --location 'https://eth.nownodes.io/your_api_key' \
 | --- | --- |
 | [Website](https://nownodes.io) | [X/Twitter](https://twitter.com/NOWNodes) |
 | [Documentation](https://docs.nownodes.io) | [Telegram](https://t.me/nownodes) |
-| [Supported Nodes](https://nownodes.io/nodes.html) | [Blog](https://nownodes.io/blog) |
+| [Supported Nodes](https://nownodes.io/nodes) | [Blog](https://nownodes.io/blog) |
 
 ---
 
