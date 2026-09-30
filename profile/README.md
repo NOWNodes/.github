@@ -9,7 +9,7 @@ Here you can explore our repositories for practical tools, examples, and resourc
 
 ## Supported Networks
 
-Connect to 100+ networks, including Ethereum, Bitcoin, Solana, BNB Smart Chain, Polygon, Arbitrum, Base, TRON, and TON. Use the same provider and API key when your application needs another chain instead of deploying and maintaining another node.
+Connect to 120+ networks, including Ethereum, Bitcoin, Solana, BNB Smart Chain, Polygon, Arbitrum, Base, TRON, and TON. Use the same provider and API key when your application needs another chain instead of deploying and maintaining another node.
 
 [View full API Documentation](https://nownodes.io/nodes?utm_source=github&utm_medium=social&utm_campaign=view-networks-main-page-github)
 
