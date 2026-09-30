@@ -3,67 +3,31 @@
 
 # Welcome to NOWNodes
 
-NOWNodes is a blockchain infrastructure provider offering instant access to full nodes, explorers, WebSockets, Blockbook APIs, and developer tools for 120+ blockchain networks.
+NOWNodes is a blockchain infrastructure provider built to make Web3 development simple and flexible. We give developers reliable access to blockchain networks and infrastructure that adapts to their project needs, from launch to scaling.
 
-We help developers, wallets, exchanges, dApps, analytics platforms, and Web3 teams build without maintaining blockchain node infrastructure themselves.
+Here you can explore our repositories for practical tools, examples, and resources that help you integrate blockchain infrastructure and build faster.
 
----
+## Supported Networks
 
-## What We Offer
+Connect to 100+ networks, including Ethereum, Bitcoin, Solana, BNB Smart Chain, Polygon, Arbitrum, Base, TRON, and TON. Use the same provider and API key when your application needs another chain instead of deploying and maintaining another node.
 
-- Multi-chain access to 120+ blockchain networks
-- Full Nodes, Explorer APIs, WebSockets, and Blockbook APIs
-- JSON-RPC, REST, WSS, Trace and Debug, Archive Node, gRPC, and MCP support
-- Dedicated Nodes for teams that need private blockchain infrastructure
-- Free API key to start building quickly
-- Infrastructure for wallets, exchanges, dApps, analytics, and enterprise Web3 products
+[View full API Documentation](https://nownodes.io/nodes?utm_source=github&utm_medium=social&utm_campaign=view-networks-main-page-github)
 
 ---
 
-## How to Get Started with NOWNodes API Key
+## Community
 
-To use the NOWNodes API, follow these steps:
-
-1. **Sign Up**: Visit [nownodes.io](https://nownodes.io/) to create an account.
-2. **Choose a Plan**: Select the plan that fits your needs.
-3. **Create an API Key**: Generate your API key and start integrating.
-
-To access our API with your key, simply add it to your request URL or header. Here's an example:
-
-```bash
-curl --location 'https://eth.nownodes.io/your_api_key' \
---header 'Content-Type: application/json' \
---data '{
-    "jsonrpc": "2.0",
-    "method": "eth_blockNumber",
-    "params": [],
-    "id": 83
-}'
-```
-
----
-
+Stay up to date with new network integrations, infrastructure updates, developer resources, and NOWNodes releases.
 
 ## Developer Resources
 
 | Resource | Description |
 | --- | --- |
-| Documentation | Integration guides and API references |
-| Tutorials | Practical examples for using NOWNodes APIs |
-| Node APIs | RPC and REST access to supported blockchain networks |
-| WebSocket API | Real-time blockchain data streams |
-| Dedicated Nodes | Custom private node infrastructure |
-| MCP | Tools for AI-assisted blockchain development |
-
----
-
-## Join our Community
-
-| Resources | Community |
-| --- | --- |
-| [Website](https://nownodes.io) | [X/Twitter](https://twitter.com/NOWNodes) |
-| [Documentation](https://docs.nownodes.io) | [Telegram](https://t.me/nownodes) |
+| [Website](https://nownodes.io/) | [X/Twitter](https://twitter.com/NOWNodes) |
+| [Documentation](https://docs.nownodes.io/) | [Telegram](https://t.me/nownodes) |
 | [Supported Nodes](https://nownodes.io/nodes) | [Blog](https://nownodes.io/blog) |
+
+Join the community to discuss integrations, ask technical questions, and follow newly supported networks and features.
 
 ---
 
@@ -76,4 +40,4 @@ Point your AI assistant or agent at NOWNodes' machine-readable context files:
 - [agents.md](https://nownodes.io/agents.md)
 
 
-Start building with NOWNodes.
+Start building with NOWNodes!
